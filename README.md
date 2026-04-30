@@ -5,10 +5,15 @@ O tema escolhido para este projeto é **Comunicação**. Trata-se de um tema de 
 
 # **FONTES**
 Inicialmente, adicionei os seguintes videos como fontes e, em seguida, utilizei a função Deep Search e deixei que a inteligência artificial buscasse mais fontes.
+
 [How I Became Articulate With My Speaking (5 Secrets)](https://www.youtube.com/watch?v=zhjYbGcByaY)
+
 [How to Articulate Your Thoughts More Clearly Than 99% of People](https://www.youtube.com/watch?v=QZXE2-sFWxQ)
+
 [How to Speak Clearly & With Confidence | Matt Abrahams](https://www.youtube.com/watch?v=ZtTUfMHuioA)
+
 [Stop Over-Explaining: The 3 S’s Rule For Projecting Authority](https://www.youtube.com/watch?v=QZnY5-NZTes)
+
 [Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO](https://www.youtube.com/watch?v=t260757b_vU)
 
 # **PROMPTS UTILIZADOS**
